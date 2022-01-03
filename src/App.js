@@ -71,6 +71,10 @@ function App() {
                 You are signed in! Please Click <b>"Get Access Token"</b> before
                 Viewing Profile Info or searching any items
               </p>
+              <p>
+                use <b>*</b> to search all items.some Demo Items to Search are:
+                <b>"vicky","test","azure", "graph"</b>
+              </p>
             </center>
           </Container>
           <Searchform />
