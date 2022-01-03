@@ -72,7 +72,7 @@ function App() {
                 Viewing Profile Info or searching any items
               </p>
               <p>
-                use <b>*</b> to search all items.some Demo Items to Search are:
+                use <b>*</b> to search all items. Some Demo Items to Search are:
                 <b>"vicky","test","azure", "graph"</b>
               </p>
             </center>
