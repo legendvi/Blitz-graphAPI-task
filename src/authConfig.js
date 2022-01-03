@@ -3,7 +3,7 @@ export const msalConfig = {
     clientId: "c341075d-3467-440e-9807-f72d64d0a92e",
     authority:
       "https://login.microsoftonline.com/ab854128-7a74-468f-b913-2aec2e9c8d56", // This is a URL (e.g. https://login.microsoftonline.com/{your tenant ID})
-    redirectUri: "http://localhost:3000/",
+    redirectUri: "https://blitz-api-task.netlify.app/",
   },
   cache: {
     cacheLocation: "sessionStorage", // This configures where your cache will be stored
